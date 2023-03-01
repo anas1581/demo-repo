@@ -1,4 +1,4 @@
 echo "hello"
-mkdir dir1
-cd dir1
+mkdir dir2
 echo "made a dir and shifted"
+cd dir2
